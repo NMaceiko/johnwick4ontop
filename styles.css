@@ -8,7 +8,7 @@ h1 {
 }
 /* REMEMBER TO RESIZE JOHN AT THE END SO HE LOOKS PERFECT!!!!!!*/
 .mainBackground {
-    background-image:url(images/johnwick4.jpg);
+    background-image:url(johnwick4.jpg);
     background-repeat:no-repeat;
     background-position:right;
     background-size:550px 800px;
@@ -27,7 +27,7 @@ dt {
 }
 
 .tableScene {
-    background-image:url(images/johnhasgun.jpg);
+    background-image:url(johnhasgun.jpg);
     background-repeat:no-repeat;
     height:300px;
     background-size:100% 100%;
