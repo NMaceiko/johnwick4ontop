@@ -1,7 +1,7 @@
 body {
     font-family:Georgia, 'Times New Roman', serif;
     margin:1em 1em 1em 2em;
-    background: linear-gradient(#67666d, #4d4e8a, #c28529);
+    background: linear-gradient(#67666d, #c28529);
 }
 
 h1 {
@@ -84,4 +84,36 @@ footer {
     background-color:#473335;
     margin:auto;
     padding:2em;
+}
+
+.nocenterh3 {
+    text-align:left;
+}
+
+a {
+    text-decoration:none;
+    font-style:normal;
+    color:#fcaa67;
+}
+
+.cast {
+    background-image:url(jw4cast.jpg);
+    background-repeat:no-repeat;
+    height:300px;
+    max-width:100%; 
+}
+
+.imagebreak {
+    height:300px;
+    max-width:100%;
+    background-image:url(cainechilling.webp);
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+.dragonbreath {
+    height:500px;
+    background-image:url(differentdb.webp);
+    background-repeat:no-repeat;
+    background-position:center;
 }
